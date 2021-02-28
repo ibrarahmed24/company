@@ -90,7 +90,7 @@ padding: 5px;
   text-align: center;
   background: #E95913;
   padding: 25px 50px;
-  border: 2px solid #CBCBCB;
+  /* border: 2px solid #CBCBCB; */
   border-radius: 15px;
 }
 .box01 h2{
@@ -108,7 +108,7 @@ padding: 5px;
   text-align: center;
   padding: 25px 50px;
   border-radius: 15px;
-  border: 2px solid #CBCBCB;
+  /* border: 2px solid #CBCBCB; */
 }
 .box02 h2{
   font-size: 20px;
@@ -150,7 +150,7 @@ padding: 5px;
   text-decoration: none;
   background: #FCFCFC;
   color:#E95913;
-  border:1px solid #C4C4C4;
+  /* border:1px solid #C4C4C4; */
   border-radius: 5px;
   padding: 15px;
 }
@@ -173,7 +173,7 @@ padding: 5px;
   text-align: center;
   background: #E95913;
   padding: 25px 50px;
-  border: 2px solid #CBCBCB;
+  /* border: 2px solid #CBCBCB; */
   border-radius: 15px;
 }
 .box1 h2{
@@ -186,7 +186,7 @@ padding: 5px;
   text-align: center;
   padding: 25px 50px;
   border-radius: 15px;
-  border: 2px solid #CBCBCB;
+  /* border: 2px solid #CBCBCB; */
 }
 .box2 h2{
   font-size: 20px;
